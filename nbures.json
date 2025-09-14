@@ -1,1 +1,68 @@
-[{"dt":"20220201","txt":"Офіційні резервні активи","txten":"Official reserve assets","id_api":"RES_OffReserveAssets","leveli":1,"parent":"Off_Reserve_Assets","freq":"M","value":29086.98,"tzep":"T071USD_7"},{"dt":"20220201","txt":"Резерви в іноземній валюті","txten":"Foreign currency reserves","id_api":"RES_ForCurrencyAssets","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","value":27462.36,"tzep":"T071USD_7"},{"dt":"20220201","txt":"Резервна позиція в МВФ","txten":"IMF reserve position","id_api":"RES_IMFResPosition","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","value":0.33,"tzep":"T071USD_7"},{"dt":"20220201","txt":"Спеціальні права запозичення","txten":"SDRs","id_api":"RES_SDRs","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","value":79.2,"tzep":"T071USD_7"},{"dt":"20220201","txt":"Золото","txten":"Gold","id_api":"RES_Gold","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","value":1545.09,"tzep":"T071USD_7"},{"dt":"20220201","txt":"Інші резервні активи","txten":"Other reserve assets","id_api":"RES_OthReserveAssets","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","value":0,"tzep":"T071USD_7"}]
+<?xml version="1.0" encoding="UTF-8"?><indicators>
+  <res>
+    <dt>20220201</dt>
+    <txt>Офіційні резервні активи</txt>
+    <txten>Official reserve assets</txten>
+    <id_api>RES_OffReserveAssets</id_api>
+    <leveli>1</leveli>
+    <parent>Off_Reserve_Assets</parent>
+    <freq>M</freq>
+    <value>29086.98</value>
+    <tzep>T071USD_7</tzep>
+  </res>
+  <res>
+    <dt>20220201</dt>
+    <txt>Резерви в іноземній валюті</txt>
+    <txten>Foreign currency reserves</txten>
+    <id_api>RES_ForCurrencyAssets</id_api>
+    <leveli>2</leveli>
+    <parent>RES_OffReserveAssets</parent>
+    <freq>M</freq>
+    <value>27462.36</value>
+    <tzep>T071USD_7</tzep>
+  </res>
+  <res>
+    <dt>20220201</dt>
+    <txt>Резервна позиція в МВФ</txt>
+    <txten>IMF reserve position</txten>
+    <id_api>RES_IMFResPosition</id_api>
+    <leveli>2</leveli>
+    <parent>RES_OffReserveAssets</parent>
+    <freq>M</freq>
+    <value>0.33</value>
+    <tzep>T071USD_7</tzep>
+  </res>
+  <res>
+    <dt>20220201</dt>
+    <txt>Спеціальні права запозичення</txt>
+    <txten>SDRs</txten>
+    <id_api>RES_SDRs</id_api>
+    <leveli>2</leveli>
+    <parent>RES_OffReserveAssets</parent>
+    <freq>M</freq>
+    <value>79.2</value>
+    <tzep>T071USD_7</tzep>
+  </res>
+  <res>
+    <dt>20220201</dt>
+    <txt>Золото</txt>
+    <txten>Gold</txten>
+    <id_api>RES_Gold</id_api>
+    <leveli>2</leveli>
+    <parent>RES_OffReserveAssets</parent>
+    <freq>M</freq>
+    <value>1545.09</value>
+    <tzep>T071USD_7</tzep>
+  </res>
+  <res>
+    <dt>20220201</dt>
+    <txt>Інші резервні активи</txt>
+    <txten>Other reserve assets</txten>
+    <id_api>RES_OthReserveAssets</id_api>
+    <leveli>2</leveli>
+    <parent>RES_OffReserveAssets</parent>
+    <freq>M</freq>
+    <value>0</value>
+    <tzep>T071USD_7</tzep>
+  </res>
+</indicators>% 
